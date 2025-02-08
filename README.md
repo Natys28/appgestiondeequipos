@@ -1,0 +1,2 @@
+# appgestiondeequipos
+gestion de equipos
